@@ -4,7 +4,7 @@
 <p align="center">
   <a> 🤔 I’m currently interested in <strong> GameDev & WebDev </strong> </a><br>
   <a> 🌱 I’m currently learning <strong> .NET Core ➞ ASP.NET Core </strong> </a><br>
-  <a> 🔭 I’m currently working on <strong> <a href="https://github.com/cuqmbr/KeepItUp"> KeepItUp </a> </strong> mobile game </a>
+  <a> 🔭 I’m currently working on <strong> <a href="https://github.com/cuqmbr/netxml2kml"> netxml2kml </a> </strong> CLI tool </a>
 </p>
 
 <h3 align="center">🠗 Languages & Tools 🠗</h3>
