@@ -40,8 +40,21 @@
 
 <h3 align="center">🠗 Github Stats 🠗</h3>
 <p align="center">
-<img align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=cuqmbr&show_icons=true&locale=en" alt="cuqmbr's Github stats" />
-<img align="center" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs?username=cuqmbr&show_icons=true&locale=en&layout=compact" alt="cuqmbr's most used languages" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=cuqmbr&show_icons=true&bg_color=22272e&title_color=adbac7&text_color=adbac7&icon_color=adbac7&border_color=444c56">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=cuqmbr&show_icons=true">
+  <img align="center" height="165px" alt="cuqmbr's Github stats" src="https://github-readme-stats.vercel.app/api?username=cuqmbr&show_icons=true">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=cuqmbr&show_icons=true&layout=compact&bg_color=22272e&title_color=adbac7&text_color=adbac7&icon_color=adbac7&border_color=444c56">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=cuqmbr&show_icons=true&layout=compact">
+  <img align="center" height="165px" alt="cuqmbr's most used languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=cuqmbr&show_icons=true&layout=compact">
+</picture>
+
+<!--<img align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=cuqmbr&show_icons=true&locale=en"  />
+<img align="center" height="165px" src=""  />-->
 </p>
 
 
