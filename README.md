@@ -7,6 +7,7 @@
   <a> 🔭 I’m currently working on <strong> <a href="https://github.com/cuqmbr/netxml2kml"> netxml2kml </a> </strong> CLI tool </a>
 </p>
 
+<!--
 <h3 align="center">🠗 Languages & Tools 🠗</h3>
 <p align="center">
   <a href=""><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /></a>
@@ -17,6 +18,7 @@
   <a href=""><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></a>
   <a href=""><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" /></a>
 </p>
+
 
 <p align="center">
   <a href=""><img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" /></a>
@@ -31,6 +33,7 @@
   <a href="https://play.google.com/store/apps/dev?id=5175912624751768701"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" /></a>
   <a href="https://cuqmbr.itch.io/"><img src="https://img.shields.io/badge/Itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" /></a>
 </p>
+-->
 
 <h3 align="center">🠗 Contacts 🠗</h3>
 <p align="center"> 
