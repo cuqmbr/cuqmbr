@@ -7,11 +7,13 @@
   <a> 🔭 I’m currently working on <strong> <a href="https://github.com/cuqmbr/Autobus"> Autobus </a> </strong> API </a>
 </p>
 
+<!---
 <h3 align="center">Contacts</h3>
 <p align="center"> 
   <a href="mailto:dr.juniorf@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://telegram.me/cuqmbr"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
+--->
 
 <h3 align="center">Github Stats</h3>
 <p align="center">
