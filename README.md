@@ -4,7 +4,7 @@
 <p align="center">
   <a> 🤔 I’m currently interested in <strong> WebDev and On-Premise hosting </strong> </a><br>
   <a> 🌱 I’m currently learning <strong> .NET and ASP.NET </strong> </a><br>
-  <a> 🔭 I’m currently working on <strong> <a href="https://github.com/cuqmbr/Autobus"> Autobus </a> </strong> API </a>
+<!---  <a> 🔭 I’m currently working on <strong> <a href="https://github.com/cuqmbr/Autobus"> Autobus </a> </strong> API </a>--->
 </p>
 
 <!---
